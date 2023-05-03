@@ -1,4 +1,4 @@
-# Criptocurrencies List Application 
+# Cryptocurrencies List Application 
 
 This is a personal project of a simple app that lists cryptocurrencies and provides more details about each one, using a public criptocurrencies API.
 
